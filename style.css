@@ -1,0 +1,13 @@
+
+#container {
+  /* width: 100vw; */
+  height: 200vh;
+  background-color: blue;
+}
+
+.whetherBox{
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
